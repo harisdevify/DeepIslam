@@ -1,4 +1,3 @@
-import React from 'react';
 function Footer() {
   return (
     <footer className="py-4 bg-[#1F2A30]">
